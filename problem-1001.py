@@ -1,3 +1,3 @@
-num1 = int(input())
-num2 = int(input())
-print('X = {:d}'.format((num1+num2)))
+number_1 = int(input())
+number_2 = int(input())
+print('X = {:d}'.format((number_1+number_2)))
